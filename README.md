@@ -5,6 +5,17 @@ Git Basics
 ´´´
 ssh
 
-$git add .
+$git status \n
 $git clone <aqui va el repo>
+$git add .
+$ git commit -m "testing commit"
+$ git push
+
+
+
+
+
+
+$ git add .
+
 ´´´
